@@ -1,86 +1,79 @@
-
 <div align="center">
+  <!-- بانر متحرك حقيقي ومبهر للـ DevOps -->
+  <img src="https://vercel.app" width="100%" />
+
+  <br />
+
+  <!-- سطر ترحيبي متحرك يكتب تلقائياً -->
   <img src="https://demolab.com" alt="Typing SVG" />
 </div>
 
 ---
 
-### 💫 About Me
-I am a passionate **Cloud & DevOps Engineer** focused on building scalable, highly available, and automated cloud infrastructure. I bridge the gap between development and operations by implementing robust CI/CD pipelines, Infrastructure as Code (IaC), and containerization.
+### <img src="https://giphy.com" width="30px"> About Me
 
-- 🌍 Location: Egypt
-- 🧠 Currently sharpening my skills in advanced cloud architecture and GitOps.
-- ⚡ Fun fact: I believe everything that can be done twice, should be automated.
+I am a **Cloud & DevOps Engineer** who loves turning complex infrastructure chaos into clean, automated, and scalable code. 
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Cloud Providers -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- Containers & Orchestration -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- IaC & Configuration -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- CI/CD & Automation -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- OS & Scripting -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+- 🚀 **Core Focus:** Cloud Architecture, Continuous Integration, and Infrastructure as Code.
+- ⚡ **Philosophy:** If you have to do it more than once, write a script to automate it.
+- 🛠️ **Current Mission:** Enhancing microservices orchestration and GitOps workflows.
 
 ---
 
-### 📊 GitHub Stats & Dynamic Activity
+### 💻 System Architecture & Tooling
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://giphy.com" width="40px"/><br/>
+      <b>Cloud Computing</b><br/>
+      AWS | Azure | GCP
+    </td>
+    <td align="center" width="33%">
+      <img src="https://giphy.com" width="40px"/><br/>
+      <b>Containers & Orchestration</b><br/>
+      Docker | Kubernetes
+    </td>
+    <td align="center" width="33%">
+      <img src="https://giphy.com" width="40px"/><br/>
+      <b>CI/CD & IaC</b><br/>
+      Jenkins | GitHub Actions | Terraform
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Infrastructure Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Zeyad's Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <!-- رسم بياني متحرك ومباشر لبيانات الحساب -->
+  <img src="https://vercel.app" width="100%" />
 </div>
 
 ---
 
-### 📞 Connect With Me
+### 📡 Establish Connection
 
-Let's collaborate on awesome Cloud & DevOps projects or just talk about automation!
+<div align="center">
 
-<p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:zeyad1445.6@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://shields.io" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me" target="_blank">
-    <img src="https://shields.io" alt="WhatsApp" />
+    <img src="https://shields.io" />
   </a>
-  <a href="tel:+201015600889">
-    <img src="https://shields.io" alt="Phone" />
-  </a>
-</p>
+
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://komarev.com" alt="Profile Views" />
 </div>
+
